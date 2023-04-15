@@ -14,7 +14,7 @@ Before you can run the repository, make sure you have Node.js installed on your 
 
 ```crm.objects.contacts.write```
 
-6.  Copy the API key
+6.  Copy the Access Token
 
 ## Installation
 1.  Clone the repository to your local machine.
@@ -28,8 +28,8 @@ git clone https://github.com/NikolayBa/hubspot-contact-creator-poc
 
 ## Running the project
 
-1.  Paste your HubSpot API key into the `apiKey.txt` file.
-2.  Save the `apiKey.txt` file.
+1.  Paste your HubSpot access token into the `accessToken.txt` file by replacing the default token.
+2.  Save the `accessToken.txt` file.
 3.  Run the project using the following command:
 `npm start` 
 
