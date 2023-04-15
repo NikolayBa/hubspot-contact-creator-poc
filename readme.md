@@ -28,7 +28,7 @@ git clone https://github.com/NikolayBa/hubspot-contact-creator-poc
 
 ## Running the project
 
-1.  Paste your HubSpot access token into the `accessToken.txt` file by replacing the default token.
+1.  Paste your HubSpot access token into the `accessToken.txt` file by replacing my test default token.
 2.  Save the `accessToken.txt` file.
 3.  Run the project using the following command:
 `npm start` 
