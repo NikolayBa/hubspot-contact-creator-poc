@@ -19,7 +19,7 @@ Before you can run the repository, make sure you have Node.js installed on your 
 ## Installation
 1.  Clone the repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/NikolayBa/hubspot-contact-creator-poc
 ```
 2.  Install the project dependencies:
 
